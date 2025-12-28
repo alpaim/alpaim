@@ -45,11 +45,21 @@
   <p>
     <i>Rust • Tauri • SQLite-Vec • TypeScript • React</i>
   </p>
-</div>
 
-> **The Problem:** Traditional search relies on exact keywords. Cloud AI compromises privacy.
->
-> **The Solution:** A desktop app that uses local LLMs to "see" images and "read" documents, indexing them by *meaning* into a local vector database.
+  <a href="https://github.com/alpaim/vecdir">
+    <img src="public/vecdir-banner.png" alt="View Code" />
+  </a>
+
+  <h3>
+    "Semantic search for your local files - running 100% offline and private"
+  </h3>
+  
+  <p>
+    A privacy-obsessed desktop search engine that uses <b>Local LLMs</b> to "read" your documents and "see" your images, indexing them into a <b>Vector Database</b> by <i>meaning</i>, not just keywords. 
+    <br>
+    <b>Zero Data Leaves YOUR Device. ~10MB Binary. Blazing Fast.</b>
+  </p>
+</div>
 
 <br>
 
