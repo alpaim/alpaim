@@ -46,9 +46,11 @@
     <i>Rust • Tauri • SQLite-Vec • TypeScript • React</i>
   </p>
 
-  <a href="https://github.com/alpaim/vecdir">
-    <img src="public/vecdir-banner.png" alt="View Code" />
-  </a>
+<div align="center">
+<a href="https://github.com/alpaim/vecdir">
+    <img src="https://raw.githubusercontent.com/alpaim/vecdir/main/public/vecdir-banner.png" alt="View Code" />
+</a>
+</div>
 
   <h3>
     "Semantic search for your local files - running 100% offline and private"
