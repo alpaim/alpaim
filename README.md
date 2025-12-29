@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Software Engineer | AI Agentic Workflows</h3>
+  <h2 align="center">Software Engineer</h3>
 
   <p align="center">
     Building high-performance, privacy-first AI tools and scalable web infrastructure.<br>
