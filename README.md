@@ -21,7 +21,7 @@
   </p>
   <p>
     <b>AI & Automation</b><br>
-    LLMs, Embeddings, RAG Systems, n8n, LLama.cpp, vLLM, Vector DBs
+    LLMs, Embeddings, RAG Systems, n8n, LLama.cpp, vLLM
   </p>
   <p>
     <b>Databases & MQ</b><br>
