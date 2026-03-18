@@ -3,7 +3,7 @@ Focusing on local AI, privacy, web technologies, and anything tech. Driven by ut
 ### Some of my projects:
 
 #### Local AI:
-- **[vecDir](https://github.com/alpaim/vecDir/)** - Local-first semantic multimodal file search. Desktop app that utilizes local multimodal embeddings and/or LLMs. 100% offline, ~10MB binary, zero data leaves your device. Built with **Rust**, **Tauri**, **React**, **SQLite-Vec**
+- **[vecDir](https://github.com/alpaim/vecDir/)** - Local-first semantic multimodal file search. Desktop app that utilizes local multimodal embeddings and/or LLMs. Find your files by meaning: text and images, all in the one semantic vector space. 100% offline, ~10MB binary, zero data leaves your device. Built with **Rust**, **Tauri**, **React**, **SQLite-Vec**.
 - **[vecBox](https://github.com/alpaim/vecBox/)** - Inference server for **Qwen3-VL-Embedding** multimodal embedding. Written in **Rust**.
 - **[vecbox-core](https://github.com/alpaim/vecbox-core/)** - Tensor logic implementation for **Qwen3-VL-Embedding** inferencing. Supports GGUF quantization, multiple backends, minimalistic binary. Built with **Rust**, **Candle**.
 #### Cryptography experiments:
