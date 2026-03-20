@@ -10,7 +10,7 @@ Focusing on local AI, privacy, web, and anything tech. Driven by utility and fun
 - **[vanish](https://github.com/alpaim/vanish/)** - Disposable self-hosted messenger with E2EE. Doesn't store data, uses ephemeral IDs with no registration, messages live in Redis only until received. Built with **Next.js**, **Redis**.
 - **[cryptopad](https://github.com/alpaim/cryptopad/)** - Client-only E2EE text encryption/decryption tool. 100% client-side, no data stored. Built with **React**, **TypeScript**.
 #### Misc:
-- **[Google Authenticator Exporter](https://github.com/alpaim/google-authenticator-exporter/)** - Convert exported Google Authenticator QR codes to universal `otpauth` format. Built to export tokens from an outdated iOS app build that even Aegis couldn't handle. 100% client-side, no data stored. Built with **React**, **TypeScript**.
+- **[Google Authenticator Exporter](https://github.com/alpaim/google-authenticator-exporter/)** - Convert Google Authenticator export QR codes to standardized `otpauth` format. Built to export tokens from an outdated iOS app build that even Aegis couldn't handle. 100% client-side, no data stored. Built with **React**, **TypeScript**.
 
 ### Find me on:
 - **Twitter / X:** [alpaimdev](https://x.com/alpaimdev)
