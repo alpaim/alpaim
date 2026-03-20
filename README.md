@@ -1,4 +1,4 @@
-Focusing on local AI, privacy, web technologies, and anything tech. Driven by utility and fun, not hype. I build tools that I actually want to use.
+Focusing on local AI, privacy, web, and anything tech. Driven by utility and fun, not hype. I build tools that I actually want to use.
 
 ### Some of my projects:
 
