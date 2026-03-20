@@ -12,6 +12,6 @@ Focusing on local AI, privacy, web technologies, and anything tech. Driven by ut
 #### Misc:
 - **[Google Authenticator Exporter](https://github.com/alpaim/google-authenticator-exporter/)** - Convert exported Google Authenticator QR codes to universal `otpauth` format. Built to export tokens from an outdated iOS app build that even Aegis couldn't handle. 100% client-side, no data stored. Built with **React**, **TypeScript**.
 
-### Find me on
+### Find me on:
 - **Twitter / X:** [alpaimcom](https://x.com/alpaimcom)
 - **Hugging Face:** [alpaim](https://huggingface.co/alpaim)
