@@ -7,6 +7,7 @@ Focusing on local AI, privacy, web, and anything tech. Driven by utility and fun
 - **[vecBox](https://github.com/alpaim/vecBox/)** - Inference server for **Qwen3-VL-Embedding** multimodal embedding. Written in **Rust**.
 - **[vecbox-core](https://github.com/alpaim/vecbox-core/)** - Tensor logic implementation for **Qwen3-VL-Embedding** multimodal embedding inferencing. Supports GGUF quantization, multiple platforms (Linux, MacOS, Windows) and devices (CPU, CUDA, Metal), minimalistic binary. Built with **Rust**, **Candle**.
 - **[alchemai](https://github.com/alpaim/alchemai/)** - Alchemy game powered by _fine-tuned_ **Liquid LFM2.5 1.2B Instruct** model right in your browser.
+- **[ashley](https://github.com/alpaim/ashley/)** - Experimental self-evolving emotional AI companion that runs autonomously 24/7 with drifting moods, deep multistep self reflections, long-term semantic memory, and natural proactivity. Built with **Rust**.
 #### Cryptography experiments:
 - **[vanish](https://github.com/alpaim/vanish/)** - Disposable self-hosted messenger with E2EE. Doesn't store data, uses ephemeral IDs with no registration, messages live in Redis only until received. Built with **Next.js**, **Redis**.
 - **[cryptopad](https://github.com/alpaim/cryptopad/)** - Client-only E2EE text encryption/decryption tool. 100% client-side, no data stored. Built with **React**, **TypeScript**.
